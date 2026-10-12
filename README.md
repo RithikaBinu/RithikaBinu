@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithika Binuwara</h1>
+<img src="profilephoto.JPG" alt="Rithika Binuwara" width="200" align="right">
 <h3 align="center">CS Undergrad @ Sabaragamuwa University | Java, C, Web Dev | Rotaract Club PR Director blending technical skills with community leadership.</h3>
 
 <p align="left"> <img src="[[https://komarev.com/ghpvc/?username=rithikabinu&label=Profile%20views&color=0e75b6&style=flat(https://avatars.githubusercontent.com/u/233436559?s=400&u=dfa15837c6f62580dbd9ccd278df73ed8f6dfb5c&v=4)](https://avatars.githubusercontent.com/u/233436559?s=400&u=dfa15837c6f62580dbd9ccd278df73ed8f6dfb5c&v=4)](https://github.com/account)" alt="rithikabinu"/> </p>
