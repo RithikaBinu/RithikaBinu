@@ -2,7 +2,6 @@
 <img src="IMG_8545.PNG" alt="Rithika Binuwara" width="200" align="right">
 <h3 align="center">CS Undergrad @ Sabaragamuwa University | Java, C, Web Dev | Rotaract Club PR Director blending technical skills with community leadership.</h3>
 
-
 <p></p>
 
 - 🌱 I’m currently learning **Machine Learning, Mobile Application Development, and Python**
