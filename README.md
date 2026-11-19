@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=rithikabinu&show_icons=true&locale=en&layout=compact" alt="rithikabinu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=rithikabinu&show_icons=true&locale=en" alt="rithikabinu" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=rithikabinu&show_icons=true&locale=en" alt="rithikabinu" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithikabinu&" alt="rithikabinu" /></p>
